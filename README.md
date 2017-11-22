@@ -64,6 +64,7 @@ C++ interface. The example builds a model, optimizes it, and outputs the optimal
 
 This is the source code for our example (also available in<installdir>/examples/c++/sudoku_c++.cpp )
 Example sudoku_c++.cpp
+ 
 [Gurobi Example Tour](http://www.gurobi.com/documentation/#)
   
 ## Example details
