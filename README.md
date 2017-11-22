@@ -24,7 +24,7 @@ This command will create a sub-directory /opt/gurobi751/linux64 that contains th
 Gurobi distribution. Your <installdir> (which we'll refer to throughout this document) will be
 /opt/gurobi751/linux64.
 
-The Gurobi Optimizer makes use of several executable files. In order to allow these les to be found
+The Gurobi Optimizer makes use of several executable files. In order to allow these files to be found
 when needed, you will have to modify a few environment variables:
 ```
 • GUROBI_HOME should point to your <installdir> .
@@ -53,7 +53,7 @@ or
 setenv LD_LIBRARY_PATH ${GUROBI_HOME}/lib
 
 ```
-These paths should be adjusted to reect your chosen <installdir> .
+These paths should be adjusted to refect your chosen <installdir> .
 
 [Retrieving Your Gurobi License](https://user.gurobi.com/download/licenses/current)
 
