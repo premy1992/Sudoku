@@ -1,4 +1,4 @@
-For testing the working of the algorithm, sudoku problems from the following links were used :
+For testing the working of the algorithm,following data set are used :
 
 1. [50 sudoku puzzles, easy to hard, all having unique solutions](https://projecteuler.net/project/resources/p096_sudoku.txt)
 
